@@ -45,15 +45,25 @@ Each library is explained **in depth with examples**, practice code, and **datas
 python-for-data-science/
 │
 ├── python_basics/
+
 ├── python_advanced/
+
 ├── numpy/
+
 ├── pandas/
+
 ├── matplotlib/
+
 ├── seaborn/
+
 ├── datasets/
+
 ├── scikit-learning/       # (coming soon)
+
 ├── machine_learning/      # (Coming soon)
+
 ├── deep_learning/         # (Coming soon)
+
 └── README.md
 
 
