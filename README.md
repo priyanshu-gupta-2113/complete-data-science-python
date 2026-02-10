@@ -40,35 +40,6 @@ Each library is explained **in depth with examples**, practice code, and **datas
 
 ---
 
-## 📂 Repository Structure
-
-complete-data-science-python/
-│
-
-├── python_basics/
-
-├── python_advanced/
-
-├── numpy/
-
-├── pandas/
-
-├── matplotlib/
-
-├── seaborn/
-
-├── datasets/
-
-├── scikit-learning/       # (coming soon)
-
-├── machine_learning/      # (Coming soon)
-
-├── deep_learning/         # (Coming soon)
-
-└── README.md
-
-
-
 ## Upcoming Content
 The following material will be added *in the same repository*:
 
