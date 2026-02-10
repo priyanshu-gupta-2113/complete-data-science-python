@@ -42,7 +42,7 @@ Each library is explained **in depth with examples**, practice code, and **datas
 
 ## 📂 Repository Structure
 
-python-for-data-science/
+complete-data-science-python/
 │
 
 ├── python_basics/
