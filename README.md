@@ -82,4 +82,4 @@ The following material will be added *in the same repository*:
 ## 🛠️ How to Use This Repository
 1.⁠ ⁠Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-for-data-science.git
+   git clone https://github.com/priyanshu-gupta-2113/python-for-data-science.git
