@@ -28,7 +28,10 @@ The goal of this repository is to act as a **one-stop learning resource** where 
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+- Scipy
+- Plotly
+- Shapley
 
 Each library is explained **in depth with examples**, practice code, and **datasets included** for hands-on learning.
 
