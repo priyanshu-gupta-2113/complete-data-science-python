@@ -1,4 +1,4 @@
-# complete-data-science-python
+# Complete Data Science
 
 # Python for Data Science (ML & DL Included)
 
