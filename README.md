@@ -32,6 +32,7 @@ The goal of this repository is to act as a **one-stop learning resource** where 
 - Scipy
 - Plotly
 - Shapley
+- OpenCV
 
 Each library is explained **in depth with examples**, practice code, and **datasets included** for hands-on learning.
 
