@@ -49,8 +49,20 @@ The following material will be added *in the same repository*:
 
 •⁠  ⁠Complete *Machine Learning* notes
 •⁠  ⁠Complete *Deep Learning* notes
+•⁠  ⁠Complete *Statistics* notes
+•⁠  ⁠Complete *Agentic AI* notes
+•⁠  ⁠Complete *Gen AI* notes
+•⁠  ⁠Complete *NLP* notes
 •⁠  ⁠Scikit-Learn (end-to-end)
 •⁠  ⁠PyTorch (from basics to implementation)
+•⁠  ⁠Langgraph (from basics to implementation)
+•⁠  ⁠Langchain (from basics to implementation)
+•⁠  ⁠HuggingFace for transformers
+
+
+
+
+
 
 ---
 
