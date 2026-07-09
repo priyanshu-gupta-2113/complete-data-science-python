@@ -24,7 +24,7 @@ The goal of this repository is to act as a **one-stop learning resource** where 
 
 ---
 
-### Python Libraries for Data Science
+### Python Libraries for Data Science (Status: Completed)
 - NumPy  
 - Pandas  
 - Matplotlib  
