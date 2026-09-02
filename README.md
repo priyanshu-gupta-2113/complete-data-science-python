@@ -35,6 +35,7 @@ The goal of this repository is to act as a **one-stop learning resource** where 
 - OpenCV
 - Streamlit
 - LangChain
+- Sklearn
 Each library is explained **in depth with examples**, practice code, and **datasets included** for hands-on learning.
 
 ---
@@ -52,12 +53,9 @@ The following material will be added *in the same repository*:
 •⁠  ⁠Complete *Deep Learning* notes
 •⁠  ⁠Complete *Statistics* notes
 •⁠  ⁠Complete *Agentic AI* notes
-•⁠  ⁠Complete *Gen AI* notes
 •⁠  ⁠Complete *NLP* notes
-•⁠  ⁠Scikit-Learn (end-to-end)
 •⁠  ⁠PyTorch (from basics to implementation)
 •⁠  ⁠Langgraph (from basics to implementation)
-•⁠  ⁠Langchain (from basics to implementation)
 •⁠  ⁠HuggingFace for transformers
 
 
